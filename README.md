@@ -1,11 +1,13 @@
 This project utilizes a variety of SQL scripts and DB to recording employee's leave and attendance record everyday and listing out all the employee leave and attendance status for managment analysis usage.
 
 #Features
+-----------------------------------------------------------------------------------------------------------------------
 
 Tables: Includes tables for employee, department, position, leavee Type, Leave Records and Attendance Records.
 Queries: Useful queries are available to retrieve specific information, such as attendance analysis for department in specify date.
 
 #Getting Started
+-----------------------------------------------------------------------------------------------------------------------
 
 Create Database: Execute the SQL script createTable.sql to create all necessary tables, including primary and foreign keys.
 
