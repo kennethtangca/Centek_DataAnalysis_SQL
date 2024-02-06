@@ -15,8 +15,8 @@ List out all active employee in company
 
 List out total attended employee for each of department on specify date
 
-list out all no show employee that haven't apply leave in specify date
+List out all no show employee that haven't apply leave in specify date
 
-list out all employee that have attend in specify date and specify department
+List out all employee that have attend in specify date and specify department
 
-list out all employee that are on leave in specify date range
+List out all employee that are on leave in specify date range
