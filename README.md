@@ -1,4 +1,4 @@
-This project utilizes a variety of SQL scripts and DB to recording employee's Leave and attendance record everyday and listing out all the employee leave and attendance status for managment analysis usage.
+This project utilizes a variety of SQL scripts and DB to recording employee's leave and attendance record everyday and listing out all the employee leave and attendance status for managment analysis usage.
 
 you may use the use the following sql script in sequence to create and insert data into database
 
